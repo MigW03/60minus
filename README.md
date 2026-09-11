@@ -9,7 +9,7 @@ It was made with small-keyboard users in mind. Compact layouts usually place num
 ## Support this work
 
 <p align="center">
-  If 60Minus makes typing a little easier, you can support Miguel's work across design, photography, AI, and vibe coding.<br><br>
+  If 60Minus makes typing a little easier, consider supporting the author.<br><br>
   <a href="https://buymeacoffee.com/migw03">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Miguel a coffee" height="60">
   </a>
