@@ -4,6 +4,12 @@
 
 Type a completed number phrase, and a small suggestion menu appears beside the text. Accept the compact number with **Tab**, choose an alternative with the arrow keys, click an option, or simply keep typing to dismiss it.
 
+## Support the creator
+
+If 60Minus is useful to you and you want to support Miguel's design, photography, AI, and vibe-coding projects, you can buy him a coffee.
+
+[![Buy Miguel a coffee](https://img.shields.io/badge/Buy_Miguel_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000)](https://buymeacoffee.com/migw03)
+
 | What you type | Primary suggestion | Alternative |
 | --- | --- | --- |
 | `five five three ` | `553` | `5 5 3` |
@@ -185,12 +191,6 @@ swift build
 - The target control must expose editable text through macOS Accessibility APIs
 - No signed and notarized downloadable release yet
 - No configurable shortcuts or launch-at-login setting yet
-
-## Support the creator
-
-If 60Minus is useful to you and you want to support Miguel's design, photography, AI, and vibe-coding projects, you can buy him a coffee.
-
-[![Buy Miguel a coffee](https://img.shields.io/badge/Buy_Miguel_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000)](https://buymeacoffee.com/migw03)
 
 ## Contributing
 
