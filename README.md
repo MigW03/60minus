@@ -189,6 +189,7 @@ swift build
 - English number words only
 - macOS 13 or newer
 - The target control must expose editable text through macOS Accessibility APIs
+- In some browser and web-based editors, including ChatGPT, the suggestion popup may appear outside the application's window because the editor reports inaccurate text coordinates through Accessibility
 - No signed and notarized downloadable release yet
 - No configurable shortcuts or launch-at-login setting yet
 
