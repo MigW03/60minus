@@ -6,8 +6,6 @@ It was made with small-keyboard users in mind. Compact layouts usually place num
 
 60Minus turns natural language into another way to enter numbers and, in the future, symbols. The goal is to help you type faster without the little mental detours that interrupt your flow.
 
-Type a completed number phrase, and a small suggestion menu appears beside the text. Accept the compact number with **Tab**, choose an alternative with the arrow keys, click an option, or simply keep typing to dismiss it.
-
 ## Support Miguel's work
 
 <p align="center">
@@ -16,6 +14,12 @@ Type a completed number phrase, and a small suggestion menu appears beside the t
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Miguel a coffee" height="60">
   </a>
 </p>
+
+---
+
+## See it in action
+
+Type a completed number phrase, and a small suggestion menu appears beside the text. Accept the compact number with **Tab**, choose an alternative with the arrow keys, click an option, or simply keep typing to dismiss it.
 
 | What you type | Primary suggestion | Alternative |
 | --- | --- | --- |
