@@ -6,7 +6,7 @@ It was made with small-keyboard users in mind. Compact layouts usually place num
 
 60Minus turns natural language into another way to enter numbers and, in the future, symbols. The goal is to help you type faster without the little mental detours that interrupt your flow.
 
-## Support Miguel's work
+## Support this work
 
 <p align="center">
   If 60Minus makes typing a little easier, you can support Miguel's work across design, photography, AI, and vibe coding.<br><br>
