@@ -2,6 +2,10 @@
 
 60Minus is a lightweight, native macOS writing assistant that converts English number words into digits wherever you type.
 
+It was made with small-keyboard users in mind. Compact layouts usually place numbers and symbols on separate layers. Those layers are useful, but sometimes typing a number in words is quicker than switching back and forth. On more complex keymaps, it can also be hard to remember where an uncommon symbol lives when you do not use it often.
+
+60Minus turns natural language into another way to enter numbers and, in the future, symbols. The goal is to help you type faster without the little mental detours that interrupt your flow.
+
 Type a completed number phrase, and a small suggestion menu appears beside the text. Accept the compact number with **Tab**, choose an alternative with the arrow keys, click an option, or simply keep typing to dismiss it.
 
 ## Support Miguel's work
