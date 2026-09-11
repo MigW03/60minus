@@ -184,6 +184,11 @@ swift build
 - `Sources/SixtyMinusApp/SuggestionPanel.swift` — renders the non-activating suggestion menu
 - `Tests/SixtyMinusTests/NumberParserTests.swift` — parser and context-scanner regression tests
 
+## Roadmap
+
+- Spoken-symbol conversion, including asterisks, parentheses, brackets, plus and minus signs, percentages, slashes, and other common symbols
+- Portuguese support for number words and spoken symbols
+
 ## Current limitations
 
 - English number words only
