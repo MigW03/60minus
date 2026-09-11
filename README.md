@@ -186,6 +186,12 @@ swift build
 - No signed and notarized downloadable release yet
 - No configurable shortcuts or launch-at-login setting yet
 
+## Support the creator
+
+If 60Minus is useful to you and you want to support Miguel's design, photography, AI, and vibe-coding projects, you can buy him a coffee.
+
+[![Buy Miguel a coffee](https://img.shields.io/badge/Buy_Miguel_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000)](https://buymeacoffee.com/migw03)
+
 ## Contributing
 
 Bug reports and focused pull requests are welcome. When reporting editor-specific behavior, include:
